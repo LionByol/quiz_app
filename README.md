@@ -1,5 +1,5 @@
-"# quiz_app"
+"Quiz_Game"
 ------
 
 An android quiz application.
-_Android Gmae_
+_Android Game_
