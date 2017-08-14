@@ -200,7 +200,6 @@ public class LoginActivity extends AppCompatActivity
     {
         int id = item.getItemId();
 
-        //noinspection SimplifiableIfStatement
         if (id == R.id.aboutgame)
         {
             new AlertDialog.Builder(LoginActivity.this)
